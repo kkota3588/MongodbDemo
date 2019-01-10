@@ -1,0 +1,40 @@
+<employee>
+    <meta>
+        <serviceName>JBHunt Project</serviceName>
+        <country>INDIA</country>
+    </meta>
+    <data>
+        <employeedata>
+            <company>MSS</company>
+            <id>3588</id>
+            <name>Krishna</name>
+            <department>Dev</department>
+            <salary>17000</salary>
+            <address>
+                <doorNo>2-199</doorNo>
+                <street>main street</street>
+                <village>Chavithipeta</village>
+                <mandal>Kotabommali</mandal>
+                <dist>Srikakulam</dist>
+                <state>Andhrapradesh</state>
+                <pincode>532430</pincode>
+            </address>
+        </employeedata>
+        <employeedata>
+            <company>MSS</company>
+            <id>3606</id>
+            <name>Gopal</name>
+            <department>Dev</department>
+            <salary>20000</salary>
+            <address>
+                <doorNo>2-199</doorNo>
+                <street>main street</street>
+                <village>Kammam</village>
+                <mandal>Bhopalapalli</mandal>
+                <dist>Warangal</dist>
+                <state>Telangana</state>
+                <pincode>543210</pincode>
+            </address>
+        </employeedata>
+    </data>
+</employee> 
